@@ -1,1 +1,1 @@
-0-current_working_directory
+Create a script that creates a directory named my first directory
