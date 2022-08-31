@@ -1,5 +1,2 @@
 #!/bin/bash
-echo $(pwd)
-git add .
-git push
-clear
+pwd
