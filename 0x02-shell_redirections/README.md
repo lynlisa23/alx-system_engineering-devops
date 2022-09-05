@@ -1,1 +1,1 @@
- my first shell redirection
+Display the content of /etc/passwd and /etc/hosts
